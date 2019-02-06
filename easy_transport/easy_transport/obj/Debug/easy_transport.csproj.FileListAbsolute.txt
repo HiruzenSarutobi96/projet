@@ -1,0 +1,6 @@
+c:\users\brice williams\documents\visual studio 2015\Projects\easy_transport\easy_transport\bin\Debug\easy_transport.exe.config
+C:\Users\BRICE WILLIAMS\documents\visual studio 2015\Projects\easy_transport\easy_transport\bin\Debug\easy_transport.exe
+C:\Users\BRICE WILLIAMS\documents\visual studio 2015\Projects\easy_transport\easy_transport\bin\Debug\easy_transport.pdb
+C:\Users\BRICE WILLIAMS\documents\visual studio 2015\Projects\easy_transport\easy_transport\obj\Debug\easy_transport.csprojResolveAssemblyReference.cache
+C:\Users\BRICE WILLIAMS\documents\visual studio 2015\Projects\easy_transport\easy_transport\obj\Debug\easy_transport.exe
+C:\Users\BRICE WILLIAMS\documents\visual studio 2015\Projects\easy_transport\easy_transport\obj\Debug\easy_transport.pdb
