@@ -162,6 +162,7 @@ namespace easy_transport
                 }
             }
             Console.WriteLine("le Total pour se voyage est {0}", total);
+            Console.ReadKey();
         }
     }
 }
